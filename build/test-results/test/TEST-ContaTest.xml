@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ContaTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2022-03-13T13:36:57" hostname="LAPTOP-5E0T3FA5" time="0.017">
+  <properties/>
+  <testcase name="testAgencia()" classname="ContaTest" time="0.001"/>
+  <testcase name="testNumero()" classname="ContaTest" time="0.002"/>
+  <testcase name="testSaldo()" classname="ContaTest" time="0.0"/>
+  <testcase name="testSacar()" classname="ContaTest" time="0.0"/>
+  <testcase name="testDepositar()" classname="ContaTest" time="0.0"/>
+  <testcase name="testTransferir()" classname="ContaTest" time="0.001"/>
+  <testcase name="testImprimirInfosComuns()" classname="ContaTest" time="0.003"/>
+  <testcase name="testConta()" classname="ContaTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
